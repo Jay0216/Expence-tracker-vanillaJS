@@ -1,0 +1,17 @@
+Expence Tracker app requirements.(Version 1)
+
+Features -: 
+
+   1.add monthly expences.
+   2.show in specific area(table or any other).
+   3.mark already done expence.(mark expensive details).
+   4.reset inputs.
+
+Main Inputs -: 
+
+   1. Expence type(input field)
+   2. Expence(input field)
+   3. Expence added date and time(input field)
+   
+
+Used Technologies(HTML, CSS, JavaScript)
